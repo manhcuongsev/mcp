@@ -1,0 +1,23 @@
+{
+    "name": "mcp_01",
+    "version": "1.0.1",
+    "author": "eels", 
+    "description": "common toolkit", 
+    "keywords": ["utils", "format", "money", "phone"],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/EdisonY/teaoss_edison"
+    },
+    "license": "ISC", 
+    "homepage": "https://your-package.org", 
+    "bugs": "https://github.com/manhcuongsev/mcp_01/issues",
+    "main": "index.js", 
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "mcp_02":"^1.0.0"
+    },
+    "devDependencies": {
+    }
+  }
